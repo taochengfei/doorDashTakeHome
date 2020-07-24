@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoorDashTakeHome</string>
+    <string name="error">Error, please try again later.</string>
+</resources>
